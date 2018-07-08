@@ -11,10 +11,16 @@
  * HTML
  * CSS
  * JavaScript.
+ 
+# Installation:
+ * Download the repository: Click "Download ZIP" on the top right of the screen. 
+ * Extract the zip file to your computer.
+ * Navigate to where you unzipped the file.
+ * Double-click "index.html" to open the game in your browser.
 
 ## Dependencies:
-  * Starter Code: https://github.com/udacity/frontend-nanodegree-arcade-game
-* Music: https://www.dl-sounds.com/royalty-free/marimba-boy/
-* Font: https://fonts.google.com/
+ * Starter Code: https://github.com/udacity/frontend-nanodegree-arcade-game
+ * Music: https://www.dl-sounds.com/royalty-free/marimba-boy/
+ * Font: https://fonts.google.com/
 
 ## Thanks for playing!
