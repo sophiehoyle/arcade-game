@@ -12,11 +12,14 @@
  * CSS
  * JavaScript.
  
-# Installation:
+## Installation:
  * Download the repository: Click "Download ZIP" on the top right of the screen. 
  * Extract the zip file to your computer.
  * Navigate to where you unzipped the file.
  * Double-click "index.html" to open the game in your browser.
+ 
+ ## View live:
+https://sophiehoyle.github.io/arcade-game/
 
 ## Dependencies:
  * Starter Code: https://github.com/udacity/frontend-nanodegree-arcade-game
